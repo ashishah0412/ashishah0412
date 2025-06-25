@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashish Shah</h1>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">I'm a curious and committed cloud technologist with a deep interest in AWS and infrastructure automation. I'm always learning and applying new tech to drive innovation and agility in cloud environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishah0412&label=Profile%20views&color=0e75b6&style=flat" alt="ashishah0412" /> </p>
